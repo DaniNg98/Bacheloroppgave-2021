@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Bacheloroppgave-2021/static/css/main.1b98e23a.chunk.css",
+    "main.js": "/Bacheloroppgave-2021/static/js/main.78d15332.chunk.js",
+    "main.js.map": "/Bacheloroppgave-2021/static/js/main.78d15332.chunk.js.map",
+    "runtime-main.js": "/Bacheloroppgave-2021/static/js/runtime-main.7becb7ba.js",
+    "runtime-main.js.map": "/Bacheloroppgave-2021/static/js/runtime-main.7becb7ba.js.map",
+    "static/js/2.1244eca4.chunk.js": "/Bacheloroppgave-2021/static/js/2.1244eca4.chunk.js",
+    "static/js/2.1244eca4.chunk.js.map": "/Bacheloroppgave-2021/static/js/2.1244eca4.chunk.js.map",
+    "index.html": "/Bacheloroppgave-2021/index.html",
+    "static/css/main.1b98e23a.chunk.css.map": "/Bacheloroppgave-2021/static/css/main.1b98e23a.chunk.css.map",
+    "static/js/2.1244eca4.chunk.js.LICENSE.txt": "/Bacheloroppgave-2021/static/js/2.1244eca4.chunk.js.LICENSE.txt",
+    "static/media/Forprosjekt.a4b5d660.pdf": "/Bacheloroppgave-2021/static/media/Forprosjekt.a4b5d660.pdf",
+    "static/media/Prosjektskisse.82142671.pdf": "/Bacheloroppgave-2021/static/media/Prosjektskisse.82142671.pdf",
+    "static/media/Statusrapport.94d454e9.pdf": "/Bacheloroppgave-2021/static/media/Statusrapport.94d454e9.pdf",
+    "static/media/HeroSection.css": "/Bacheloroppgave-2021/static/media/bachelor-hero.ed44c7c6.jpeg",
+    "static/media/img1.3e53af1d.png": "/Bacheloroppgave-2021/static/media/img1.3e53af1d.png",
+    "static/media/img2.0684e796.png": "/Bacheloroppgave-2021/static/media/img2.0684e796.png",
+    "static/media/img3.9ec122c1.png": "/Bacheloroppgave-2021/static/media/img3.9ec122c1.png",
+    "static/media/img4.8148a3ab.png": "/Bacheloroppgave-2021/static/media/img4.8148a3ab.png",
+    "static/media/mem1.ef5eeb91.png": "/Bacheloroppgave-2021/static/media/mem1.ef5eeb91.png",
+    "static/media/mem2.2de58407.png": "/Bacheloroppgave-2021/static/media/mem2.2de58407.png",
+    "static/media/mem3.fa68417a.png": "/Bacheloroppgave-2021/static/media/mem3.fa68417a.png",
+    "static/media/mem4.3376be38.png": "/Bacheloroppgave-2021/static/media/mem4.3376be38.png",
+    "static/media/sluttrapport.4736e376.pdf": "/Bacheloroppgave-2021/static/media/sluttrapport.4736e376.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7becb7ba.js",
+    "static/js/2.1244eca4.chunk.js",
+    "static/css/main.1b98e23a.chunk.css",
+    "static/js/main.78d15332.chunk.js"
+  ]
+}
